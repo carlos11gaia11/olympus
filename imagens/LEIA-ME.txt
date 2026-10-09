@@ -1,0 +1,5 @@
+Imagens locais da identidade visual Olympus.
+Logo SVG: olympus.svg
+Ícones locais: instagram, discord, youtube, tiktok e twitch (.svg).
+Para trocar uma imagem, substitua o arquivo mantendo o nome e a extensão.
+Os links oficiais são gerenciados pelo Painel ADM > Redes sociais, após executar a migração V7.
